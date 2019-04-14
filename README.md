@@ -6,6 +6,7 @@ Admin can:
 - Sign up teachers and students.
 - Assign courses to teachers.
 - View general reports.\
+
 Teachers can:
 - Assign grades to students.
 - View report of grades.\
